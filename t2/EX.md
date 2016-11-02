@@ -1,4 +1,5 @@
 ---
+
 1. Viz priklad 1 z predchoziho tutorialu. 
    Potomci budou koncit s nahodnym cislem status exit( ?? );
    Rodic bude sledovat navratovy kod. 
@@ -13,4 +14,5 @@
 1. AIO - opet dva potomci posilaji data rodici dvema rourami.
    Zpracovani pomoci vlaken. 
    Pro sigevent.sigev_notify nastavit SIGEV_THREAD.
+
 ---
